@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Helvetica';
+    src: url('../fonts/Helvetica-Bold.ttf') format('ttf'),
+        url('../fonts/Helvetica.ttf') format('ttf');
+}
+
+/* font */
+$font-family: "Open Sans",
+sans-serif;
+$font-family-helvetica: 'Helvetica', sans-serif;
+/* Size */
+$size-12: 12px;
+$size-14: 14px;
+$size-16: 16px;
+$size-18: 18px;
+$size-20: 20px;
+$size-30: 30px;
+$size-24: 24px;
+$size-36: 36px;
+$size-40: 40px;
+$size-50: 50px;
+$size-100: 100px;
+
+
+
+ 
+/* Color */
+$black-color: #000000;
+$dark-color: #2a2d2e;
+$dark-color-1: #14171d;
+$gray-color: #999999;
+$shadow-color: rgba(116, 124, 141, 0.31);
+$gray-color-1: #e0e0e0;
+$gray-color-2: #b4b4b4;
+$gray-color-3: #cccccc;
+$gray-color-4: #95999c;
+$gray-color-5: #edecea;
+$gray-color-6: #332f29;
+$gray-color-7: rgba(51, 47, 41, .3);
+$gray-color-8: rgba(204, 204, 204, .2);
+$gray-line-color: #ebebeb;
+$gray-line-color-d3: #d3d3d3;
+$gray-active-color: #333333;
+$gray-light-color: #666666;
+$white-color: #ffffff;
+$white-half-color: rgba(255, 255, 255, .5);
+$jazzberry-color: #d70152;
